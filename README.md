@@ -42,6 +42,10 @@ For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/
 4. Year - Child Table
 * YearID
 * YearOf
+* Created
+* CreatedBy
+* Updated
+* UpdatedBy
 * ActiveYN
 5. BooksYear - Intermediate Table (breaks Many-to-Many relationship between Books and Year)
 * BookYearID
