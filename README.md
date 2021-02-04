@@ -53,11 +53,11 @@ For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/
 * UpdatedBy
 * ActiveYN
 6*. History table - to track any changes done in the database
-
+![](images/Logical.png)
 
 ## 2. Relational Model
 The relational model showcases relations between tables and table constraints:
-
+![](images/RelationalModel.png)
 
 ## Implementation
 ### Population of the Database
