@@ -1,7 +1,7 @@
 # amazon-bestselling-books
 This repo is to demonstrate my ability to develop a relational database and a web app that will allow users to search and filter amazon bestselling books by name, author, genre, user rating and price.
 ## Table of Contents
-* [Data Source](Data_Source)
+* [Data Source](https://github.com/KateKalashnikova/amazon-bestselling-books/blob/main/README.md#data-source)
 * [Conceptual Design](Conceptual_Design)
 * [Implementation](Implementation)
 * [Technologies](Technologies)
