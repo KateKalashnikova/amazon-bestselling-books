@@ -11,6 +11,32 @@ For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/
 
 ## Conceptual design of Database
 ### Logical Model
+## There are 5 entities with the following attributes:
+1. Books - Main Table
+* BookID
+* BookName
+* UserRating
+* Reviews
+* Price
+* ActiveYN
+2. Genres - Child Table
+* GenreID
+* GenreName
+* ActiveYN
+3. Authors
+* AuthorID
+* AuthorName
+* ActiveYN
+4. Year - Child Table
+* YearID
+* YearOf
+* ActiveYN
+5. BooksYear - Intermediate Table
+* BookYearID
+* BookID
+* YearID
+
+
 ### Relational Model
 
 ## Implementation
