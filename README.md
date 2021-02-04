@@ -10,8 +10,8 @@ This repo is to demonstrate my ability to develop a relational database and a we
 For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019.
 
 ## Conceptual design of Database
-### Logical Model
-## There are 5 entities with the following attributes:
+## 1. Logical Model
+### There are 5 entities with the following attributes:
 1. Books - Main Table
 * BookID
 * BookName
@@ -35,12 +35,25 @@ For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/
 * BookYearID
 * BookID
 * YearID
+6*. History table - to track any changes done in the database
 
 
-### Relational Model
+## 2. Relational Model
+* The relational model showcases relations between tables and table constraints:
+
 
 ## Implementation
+### Population of the Database
+Populating the database in teh following order:
+1. Child tables
+2. Main table
+3. INtermediate table
+
+### Web App development
+In progress
 
 ## Technologies
 The following technologies were used:
+* PowerQuerry
+* 
 
