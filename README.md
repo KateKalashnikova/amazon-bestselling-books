@@ -75,7 +75,7 @@ In progress
 
 ## Technologies
 The following technologies were used:
-* PowerQuerry
+* Power Query Excel
 * SQL Developer Data Modeler
 * Oracle Apex
 * SublimeText
