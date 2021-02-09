@@ -1,0 +1,1 @@
+UPDATE Books SET ActiveYN='Y' WHERE ActiveYN IS NULL; 
