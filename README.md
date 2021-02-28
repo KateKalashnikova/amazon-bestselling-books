@@ -4,7 +4,7 @@ This repo is to demonstrate my ability to develop a relational database and a we
 * [Data Source](https://github.com/KateKalashnikova/amazon-bestselling-books/blob/main/README.md#data-source)
 * [Conceptual Design](https://github.com/KateKalashnikova/amazon-bestselling-books/blob/main/README.md#conceptual-design-of-database)
 * [Implementation](https://github.com/KateKalashnikova/amazon-bestselling-books/blob/main/README.md#implementation)
-* [Technologies](https://github.com/KateKalashnikova/amazon-bestselling-books/blob/main/README.md#technologies)
+
 
 ## Data Source
 For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019.
@@ -73,10 +73,4 @@ Populating the database in the following order:
 ### Web App development
 In progress
 
-## Technologies
-The following technologies were used:
-* Power Query Excel
-* SQL Developer Data Modeler
-* Oracle Apex
-* SublimeText
 
