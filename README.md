@@ -10,7 +10,7 @@ This repo is to demonstrate my ability to develop a relational database and a we
 For this project I downloaded a dataset from Kaggle.com: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019.
 
 ## Conceptual design of Database
-## 1. Logical Model
+## 1. Logical Model/Entity Relationship Diagram (ERD)
 ### There are 5 entities with the following attributes:
 1. Books - Main Table
 * BookID
